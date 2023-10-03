@@ -1,1 +1,0 @@
-# ritchey-permissive-license
