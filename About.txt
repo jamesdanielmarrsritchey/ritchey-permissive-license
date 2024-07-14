@@ -1,8 +1,8 @@
-Name:Ritchey Permissive License
-Version:16
-Long Identifier:Ritchey Permissive License v16
-Short Identifier:RPLv16
-Description:A permissive license.
+Name: Ritchey Permissive License
+Version: 17
+Long Identifier: Ritchey Permissive License v17
+Short Identifier: RPLv17
+Description: A permissive license.
 History:
  - Version 1 completed in 2015, and released under the name Comprehensible Open License 1.0.
  - Version 2 completed, and released as Comprehensible Open License 2.0.
@@ -20,7 +20,8 @@ History:
  - Version 14 completed.
  - Version 15 completed.
  - Version 16 completed October 2, 2023.
+ - Version 17 completed July 14, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing:This project is licensed under the Ritchey Permissive License v16.
+Licensing: This project is herby licensed under the terms of the Ritchey Permissive License v17 license.
 Notes:
 - Originally named Comprehensible Open License. Renamed to Ritchey Permissive License at version 4.
