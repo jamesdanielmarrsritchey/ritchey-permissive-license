@@ -1,7 +1,7 @@
 Name: Ritchey Permissive License
-Version: 18
-Long Identifier: Ritchey Permissive License v18
-Short Identifier: RPLv18
+Version: 19
+Long Identifier: Ritchey Permissive License v19
+Short Identifier: RPLv19
 Description: A permissive license.
 History:
  - Version 1 completed in 2015, and released under the name Comprehensible Open License 1.0.
@@ -22,7 +22,8 @@ History:
  - Version 16 completed October 2, 2023.
  - Version 17 completed July 14, 2024.
  - Version 18 completed July 15, 2024.
+ - Version 19 completed December 22, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the Ritchey Permissive License v18 license.
+Licensing: This project is hereby licensed under the Ritchey Permissive License v19 license.
 Notes:
 - Originally named Comprehensible Open License. Renamed to Ritchey Permissive License at version 4.
